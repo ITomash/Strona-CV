@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.boxy {
+    font-family: Lato, 'sans-serif';
+    text-align: justify;
+    height: 0px;
+    color: #222;
+}
+
+.container {
+}
+
+.fb {
+    background-color: #3b5998;
+    height: 80px;
+    text-align: center;
+}
+
+.fb:hover {
+    background-color: #2b4887;
+    height: 100px;
+}
+
+.git {
+    background-color: #bd2c00;
+    height: 80px;
+    text-align: center;
+}
+
+.git:hover {
+    background-color: #ac1b00;
+    height: 100px;
+}
+
+.mail {
+    background-color: #444;
+    height: 80px;
+    text-align: center;
+}
+
+.mail:hover {
+    background-color: #333;
+    height: 100px;
+}
+
+.oMnie{
+    font-size: 16px;
+}
+
+.cv {
+    border-left: 1px solid #444;
+    border-right: 1px solid #444;
+    font-size: 16px;
+}
+
+.kontakt {
+    font-size: 16px;
+}
+
+.kontakt-container {
+    margin-left: 60px;
+}
+
+a {
+    display: block;
+    height: 80px;
+}
+
+.ikona-lokacja {
+    float: left;
+}
+
+.adres {
+    float: left;
+}
+
+.ikona-telefon {
+    float: left;
+    margin-top: 10px;
+}
+
+.numer-telefonu {
+    float: left;
+    margin-top: 15px;
+}
+
+.footer-container {
+    height: 80px;
+    display: none;
+    clear: both;
+}
+
+.data {
+
+}
+
+.praca {
+    float: left;
+}
